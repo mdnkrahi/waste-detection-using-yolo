@@ -150,3 +150,4 @@ docker push chickenapp.azurecr.io/chicken:latest
 # waste-detection-using-yolo
 # waste-detection-using-yolo
 # waste-detection-using-yolo
+# waste-detection-using-yolo
